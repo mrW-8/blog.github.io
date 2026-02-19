@@ -1,0 +1,56 @@
+html
+{
+  background-color: white;
+}
+body
+{
+    background-color: navy;
+    font-family: tahoma;
+    height: 600px;
+}
+header, h1, h2, h3, nav, main, footer
+{
+    background-color: white;
+    text-align: center;
+}
+div
+{
+    background-color: navy;
+}
+h2, h3
+{
+    text-align: center;
+    background-color: navy;
+    color: white;
+}
+.box
+{
+    border: medium groove black;
+    background-color: silver;
+}
+h1
+{
+    background-color: navy;
+    color: white;
+}
+nav
+{
+    text-align: center;
+    font-size: 25px;
+}
+a 
+{
+    text-decoration: none;
+}
+a
+{
+    color: white;
+}
+main
+{
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
